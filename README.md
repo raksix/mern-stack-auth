@@ -4,10 +4,12 @@ client ve backend ayrı çalıştırmak için
 
 client: 
 cd client
+npm install
 npm start
 
 backend:
 cd backend
+npm install
 npm start
 
 diğer bilgileri bildiğinizi var sayıyorum.
